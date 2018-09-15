@@ -1,0 +1,139 @@
+[
+{
+"cnd": [
+{
+"on": "../../static/assets/Zhang/1.jpg",
+"pn": "../../static/assets/Zhang/2.jpg",
+"qn": "../../static/assets/Zhang/3.jpg",
+"rn": "../../static/assets/Zhang/4.jpg"
+}
+],
+"cnf": [
+{
+"ky": "鱼厂 . 专注烤鱼 （ 赛格国际店 ）",
+"sn": "../../static/assets/Zhang/5.jpg",
+"f": "4.1分（4.4万人评）人均：￥57/人",
+"tn": "../../static/assets/Zhang/6.jpg",
+"dy": "22点打烊 当前人气67"
+}
+],
+"cng": [
+{
+"on": "../../static/assets/Zhang/7.jpg",
+"op": "../../static/assets/Zhang/8.jpg",
+"oa": "../../static/assets/Zhang/9.jpg",
+"os": "../../static/assets/Zhang/10.jpg"
+}
+],
+"cnh": [
+{
+"od": "../../static/assets/Zhang/11.jpg",
+"of": "小寨川菜排名榜第一名 ",
+"og": "../../static/assets/Zhang/12.jpg"
+}
+],
+"cnj": [
+{
+"oh": "../../static/assets/Zhang/13.jpg",
+"oj": "雁塔区长安中路123号赛格国际购物中心6层西北角（与小寨东路交叉口东北角）",
+"ok": "../../static/assets/Zhang/dh.jpg"
+}
+],
+"cnk": [
+{
+"ol": "../../static/assets/Zhang/14.jpg",
+"oz": "外卖",
+"ox": "满减",
+"oc": "../../static/assets/Zhang/12.jpg"
+}
+],
+"cnl": [
+{
+"ov": "优惠信息",
+"ob": "用户评论",
+"on": "商家信息"
+}
+],
+"cnz": [
+{
+"om": "买单",
+"pq": "每满100减5元",
+"pw": "（每天0：00-24:00）"
+}
+],
+"cnx": [
+{
+"pe": "买单",
+"pr": "半年销量 4213"
+}
+],
+"cnc": [
+{
+"pt": "100元代金券",
+"py": "周一到周四 | 部分商品可用",
+"pu": "￥82.6",
+"pi": "8.3折"
+}
+],
+"cnv": [
+{
+"po": "推荐菜",
+"pp": "查看更多",
+"zp": "商家招牌(1)",
+"ps": "豆花烤鱼",
+"dx": "../../static/assets/Zhang/15.jpg",
+"dc": "大众点评 . 网友推荐(200)",
+"dv": "淮王鱼烤鱼 鱼豆腐 蓝莓土豆泥 酱香味泡饼 海鲈鱼 金针菇 油豆腐皮 藕片 年糕 鲜橙苹果汁 老豆腐 冰糖银耳炖雪梨 香菇..."
+}
+],
+"list": [
+{
+"img": "../../static/assets/Zhang/tx1.jpg",
+"mt": "眉***天",
+"img1": "../../static/assets/Zhang/hy.jpg",
+"img2": "../../static/assets/Zhang/xx.jpg",
+"time": "2018-09-02",
+"sec": "酱香的微带甜味，扮米饭很好吃，儿子咥了两碗米饭。138的鱼肉质细腻紧致，份量很足，三人吃饱饱的。第一次来鱼厂，放眼望去全是年轻人，美女帅哥云云，我们一家三口吃的...",
+"img3": "../../static/assets/Zhang/16.jpg",
+"img4": "../../static/assets/Zhang/17.jpg",
+"img5": "../../static/assets/Zhang/18.jpg"
+},
+{
+"img": "../../static/assets/Zhang/tx2.jpg",
+"mt": "cJa559102231",
+"img1": "../../static/assets/Zhang/hy.jpg",
+"img2": "../../static/assets/Zhang/xx.jpg",
+"time": "2018-09-02",
+"sec": "味道特别不错！吃一次回味无穷，天天惦念着再来吃一顿！哈哈哈哈，烤鱼量很足，点一份烤鱼加三四个涮菜...",
+"img3": "../../static/assets/Zhang/19.jpg",
+"img4": "../../static/assets/Zhang/20.jpg",
+"img5": "../../static/assets/Zhang/21.jpg"
+},
+{
+"img": "../../static/assets/Zhang/tx3.jpg",
+"mt": "Kibou·奚",
+"img1": "../../static/assets/Zhang/hy.jpg",
+"img2": "../../static/assets/Zhang/xx.jpg",
+"time": "2018-09-02",
+"sec": "感觉很不错，以前在咸阳的鱼厂吃了好几次了，这次放假来西安吃，味道一如既往地赞，鱼肉烤得很到位，用料很足，米饭也很劲道，没有夹生饭...",
+"img3": "../../static/assets/Zhang/22.jpg",
+"img4": "../../static/assets/Zhang/23.jpg",
+"img5": "../../static/assets/Zhang/24.jpg"
+}
+],
+"lis":[
+{
+"zb1":"../../static/assets/Zhang/25.jpg","yc":"鱼厂专注烤鱼","yx":"100元夜宵代金券","zj":"周一至周日 | 部分商品可用","j":"￥59.9","aa":"6折","bb":"小寨 5.7km","dd":"已售11"
+},
+{
+"zb1":"../../static/assets/Zhang/26.jpg","yc":"李想大虾火锅园","yx":"2-3人餐","zj":"香辣虾、娃娃菜、麻小...","j":"￥98","aa":"5折","bb":"科技路2km","dd":"已售16万"
+},
+{
+"zb1":"../../static/assets/Zhang/27.jpg","yc":"故事里海鲜大餐","yx":"海洋大餐两人餐","zj":"海鲜","j":"￥138","aa":"7折","bb":"莲湖区1.7公里","dd":"已售5053"
+},
+{
+"zb1":"../../static/assets/Zhang/28.jpg","yc":"上野日本料理","yx":"2人餐","zj":"杏仁小鱼干、娘惹山药卷","j":"￥59.9","aa":"6折","bb":"东大街1.6公里","dd":"已售11991"
+}
+]
+}
+]

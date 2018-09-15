@@ -1,0 +1,406 @@
+{
+    "introItems": [
+        {
+            "id": "00001",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item1.jpg",
+            "name": "鱼厂·专注烤鱼",
+            "info": "[小寨]100元代金券1张，可叠加",
+            "priceNow": 82.6,
+            "priceMarket": 100,
+            "saleCount": 141572
+        },
+        {
+            "id": "00002",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item2.jpg",
+            "name": "一只酸奶牛",
+            "info": "[西安等]酸奶牛紫米露3选1",
+            "priceNow": 9.9,
+            "priceMarket": 12,
+            "saleCount": 479123
+        },
+        {
+            "id": "00003",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item3.jpg",
+            "name": "享遇牛排海鲜自助餐厅",
+            "info": "[小寨]午晚通用自助",
+            "priceNow": 66,
+            "priceMarket": 79,
+            "saleCount": 136509
+        },
+        {
+            "id": "00004",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item4.jpg",
+            "name": "千家粗粮王海鲜烤肉火锅自助",
+            "info": "[2店通用]午晚餐夜宵通用",
+            "priceNow": 67.1,
+            "priceMarket": 99,
+            "saleCount": 93810
+        },
+        {
+            "id": "00005",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item5.jpg",
+            "name": "牛一嘴·中国兰州牛肉拉面",
+            "info": "[3店通用]单人餐，提供免费WiFi",
+            "priceNow": 9.9,
+            "priceMarket": 14,
+            "saleCount": 87295
+        },
+        {
+            "id": "00006",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item6.jpg",
+            "name": "长安大牌档",
+            "info": "[3店通用]50元代金券1张，可叠加",
+            "priceNow": 45,
+            "priceMarket": 50,
+            "saleCount": 324388
+        },
+        {
+            "id": "00007",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item7.jpg",
+            "name": "嗨捞猪肚鸡",
+            "info": "[5店通用]100元代金券1张，可叠加",
+            "priceNow": 89,
+            "priceMarket": 100,
+            "saleCount": 95157
+        },
+        {
+            "id": "00008",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item8.jpg",
+            "name": "花田煮·臻牛",
+            "info": "[9店通用]100元代金券1张，可叠加",
+            "priceNow": 69,
+            "priceMarket": 100,
+            "saleCount": 5305
+        },
+        {
+            "id": "00009",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item9.jpg",
+            "name": "小蹄大作",
+            "info": "[2店通用]小吃3选1，提供免费WiFi",
+            "priceNow": 14.5,
+            "priceMarket": 16,
+            "saleCount": 20039
+        },
+        {
+            "id": "00010",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item10.jpg",
+            "name": "毅祥斋老孙家泡馍",
+            "info": "[莲湖区]单人牛肉泡馍，提供免费WiFi",
+            "priceNow": 9.8,
+            "priceMarket": 25,
+            "saleCount": 126146
+        },
+        {
+            "id": "00011",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item11.jpg",
+            "name": "顶牛兰州牛肉拉面",
+            "info": "[2店通用]拉面套餐，建议单人使用",
+            "priceNow": 8.88,
+            "priceMarket": 12,
+            "saleCount": 136409
+        },
+        {
+            "id": "00012",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item12.jpg",
+            "name": "费尼餐厅",
+            "info": "[小寨]100元代金券1张，可叠加2张",
+            "priceNow": 79,
+            "priceMarket": 100,
+            "saleCount": 39048
+        },
+        {
+            "id": "00013",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item13.jpg",
+            "name": "东东包",
+            "info": "[西安等]单人餐",
+            "priceNow": 15,
+            "priceMarket": 20,
+            "saleCount": 51778
+        },
+        {
+            "id": "00014",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item14.jpg",
+            "name": "拉菲达牛排自助",
+            "info": "[小寨]周内雪花肉眼牛排/周末雪花肉眼牛排2选1",
+            "priceNow": 66,
+            "priceMarket": 68,
+            "saleCount": 11130
+        },
+        {
+            "id": "00015",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item15.jpg",
+            "name": "和谐号海鲜烤肉火锅自助",
+            "info": "[小寨]单人自助餐",
+            "priceNow": 66.8,
+            "priceMarket": 100,
+            "saleCount": 94782
+        },
+        {
+            "id": "00016",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item16.jpg",
+            "name": "新辣道鱼火锅",
+            "info": "[8店通用]100元代金券1张，全场通用",
+            "priceNow": 65,
+            "priceMarket": 100,
+            "saleCount": 9249
+        },
+        {
+            "id": "00017",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item17.jpg",
+            "name": "子午路张记肉夹馍",
+            "info": "[5店通用]三秦套餐，建议单人使用",
+            "priceNow": 13,
+            "priceMarket": 16,
+            "saleCount": 24884
+        },
+        {
+            "id": "00018",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item18.jpg",
+            "name": "呷哺呷哺",
+            "info": "[小寨]100元代金券1张，可叠加",
+            "priceNow": 88,
+            "priceMarket": 100,
+            "saleCount": 543
+        },
+        {
+            "id": "00019",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item19.jpg",
+            "name": "千家粗粮王连锁自助",
+            "info": "[电子城]单人自助餐/周五周六周日2选1",
+            "priceNow": 49.9,
+            "priceMarket": 59,
+            "saleCount": 35959
+        },
+        {
+            "id": "00020",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item20.jpg",
+            "name": "蘭芳園",
+            "info": "[4店通用]饮品1选1，包间免费",
+            "priceNow": 9.9,
+            "priceMarket": 16,
+            "saleCount": 4432
+        },
+        {
+            "id": "00021",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item21.jpg",
+            "name": "仟禧自助涮烤",
+            "info": "[政法/师大]单人午/晚市套餐/单人午/晚市套餐2选1",
+            "priceNow": 45.9,
+            "priceMarket": 59,
+            "saleCount": 148484
+        },
+        {
+            "id": "00022",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item22.jpg",
+            "name": "鑫海汇海鲜烤肉火锅自助",
+            "info": "[建工路]单人自助晚餐/节假日全天自助2选1",
+            "priceNow": 59.9,
+            "priceMarket": 86,
+            "saleCount": 163028
+        },
+        {
+            "id": "00023",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item23.jpg",
+            "name": "李想大虾火锅花园",
+            "info": "[8店通用]2-3人餐，提供免费WiFi",
+            "priceNow": 98,
+            "priceMarket": 152,
+            "saleCount": 163337
+        },
+        {
+            "id": "00024",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item24.jpg",
+            "name": "爱辣屋",
+            "info": "[南稍门]美味双人餐，提供免费WiFi",
+            "priceNow": 49.9,
+            "priceMarket": 58,
+            "saleCount": 12733
+        },
+        {
+            "id": "00025",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item25.jpg",
+            "name": "赛百味",
+            "info": "[23店通用]单人餐",
+            "priceNow": 26,
+            "priceMarket": 31,
+            "saleCount": 125033
+        },
+        {
+            "id": "00026",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item26.jpg",
+            "name": "张氏宽窄巷成都名小吃",
+            "info": "[西安等]50元代金券1张，可叠加",
+            "priceNow": 45,
+            "priceMarket": 50,
+            "saleCount": 111125
+        },
+        {
+            "id": "00027",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item27.jpg",
+            "name": "宽塘·蛙哥虾妹",
+            "info": "[6店通用]组合锅套餐，建议2-3人使用",
+            "priceNow": 169,
+            "priceMarket": 216,
+            "saleCount": 1995
+        },
+        {
+            "id": "00028",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item28.jpg",
+            "name": "古今长安老茶坊",
+            "info": "[小寨]50元代金券1张，可叠加",
+            "priceNow": 45,
+            "priceMarket": 50,
+            "saleCount": 55857
+        },
+        {
+            "id": "00029",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item29.jpg",
+            "name": "玩味音乐海鲜自助火锅",
+            "info": "[小寨]单人晚市自助",
+            "priceNow": 65.8,
+            "priceMarket": 69,
+            "saleCount": 2068
+        },
+        {
+            "id": "00030",
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/intro/intro-item30.jpg",
+            "name": "瑞可爷爷的店",
+            "info": "[小寨][西安等]起司蛋糕1个，约7英寸，圆形",
+            "priceNow": 32.9,
+            "priceMarket": 39,
+            "saleCount": 280765
+        }
+    ],
+    "navItems": [
+        {
+            "url": "#/Meishi",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img1.jpg",
+            "name": "美食"
+        },
+        {
+            "url": "#/CatEye",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img2.jpg",
+            "name": "猫眼电影"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img3.jpg",
+            "name": "酒店"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img4.jpg",
+            "name": "休闲娱乐"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img5.jpg",
+            "name": "外卖"
+        },
+        {
+            "url": "#/ktvlist",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img6.jpg",
+            "name": "KTV"
+        },
+        {
+            "url": "#/Side_list",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img7.jpg",
+            "name": "周边游"
+        },
+        {
+            "url": "#/Beautylist",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img8.jpg",
+            "name": "丽人"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img9.jpg",
+            "name": "小吃快餐"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav1_img10.jpg",
+            "name": "火车票"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img1.jpg",
+            "name": "生活服务"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img2.jpg",
+            "name": "今日新单"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img3.jpg",
+            "name": "足疗/按摩"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img4.jpg",
+            "name": "甜点饮品"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img5.jpg",
+            "name": "母婴亲子"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img6.jpg",
+            "name": "学习培训"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img7.jpg",
+            "name": "结婚"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img8.jpg",
+            "name": "家装"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img9.jpg",
+            "name": "代金券"
+        },
+        {
+            "url": "#",
+            "imgSrc": "../../../static/yuan/img/index/nav/nav2_img10.jpg",
+            "name": "全部分类"
+        }
+    ]
+}

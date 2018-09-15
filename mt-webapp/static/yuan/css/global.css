@@ -1,0 +1,26 @@
+body,p,ul,ol,li,dl,dt,dd,form,table,tr,td,hr,h1,h2,h3,h4,h5,h6,figure,fieldset,legend,input{
+  margin:0;
+  padding: 0;
+}
+html{
+  font-size: 26.67vw;
+}
+html,body{
+  height: 100%;
+}
+body{
+  font-family: "微软雅黑",Arial;
+  display: -webkit-flex;
+  -webkit-flex-direction:column;
+  font-size: .12rem;
+}
+a{
+  text-decoration: none;
+}
+ul,ol{
+  list-style: none;
+}
+img{
+  border: none;
+  display: block;
+}

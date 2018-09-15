@@ -1,0 +1,414 @@
+[
+  {
+     "biglist":[
+      {
+        "list": [
+          {
+              "id":"0",
+              "imgs": "../../static/assets/Geng/00.jpg",
+              "title": "碟中谍6:全面瓦解",
+              "img": "../../static/assets/Geng/3d.jpg",
+              "pin": "观众评:",
+              "shu": "9.1",
+              "nei": "主演:汤姆克鲁斯,亨利卡维尔,文...",
+              "jin": "今天101家影院放映1876场",
+              "img1": "../../static/assets/Geng/buy.jpg"
+            },
+          {
+            "id":"1",
+            "imgs": "../../static/assets/Geng/01.jpg",
+            "title": "蚁人2：黄蜂女现身",
+            "img": "../../static/assets/Geng/3d.jpg",
+            "pin": "观众评:",
+            "shu": "8.8",
+            "nei": "主演: 保罗·路德,伊万杰琳·莉莉,迈...",
+            "jin": "今天101家影院放映580场",
+            "img1": "../../static/assets/Geng/buy.jpg"
+          },
+          {
+            "id":"2",
+            "imgs": "../../static/assets/Geng/02.jpg",
+            "title": "快把我哥带走",
+            "pin": "观众评:",
+            "shu": "9.0",
+            "nei": "主演: 张子枫,彭昱畅,赵今麦",
+            "jin": "今天96家影院放映328场",
+            "img1": "../../static/assets/Geng/buy.jpg"
+          },
+          {
+              "id":"3",
+              "imgs": "../../static/assets/Geng/03.jpg",
+              "title": "苏丹",
+              "pin": "观众评:",
+              "shu": "9.2",
+              "nei": "主演: 萨尔曼·汗,安努舒卡...",
+              "jin": "今天90家影院放映267场",
+              "img1": "../../static/assets/Geng/yu.jpg"
+            },
+          {
+          "id":"4",
+          "imgs": "../../static/assets/Geng/04.jpg",
+          "title": "阿尔法：狼伴归途",
+          "img": "../../static/assets/Geng/3d.jpg",
+          "pin": "75074:",
+          "shu": "人想看",
+          "nei": "主演: 柯蒂·斯密特-麦菲,蕾奥娜...",
+          "jin": "2018-09-07 本周五上映",
+          "img1": "../../static/assets/Geng/buy.jpg"
+        },
+         {
+          "id":"5",
+          "imgs": "../../static/assets/Geng/05.jpg",
+          "title": "一出好戏",
+          "pin": "观众评:",
+          "shu": "8.2",
+          "nei": "主演: 黄渤,舒淇,王宝强",
+          "jin": "今天79家影院放映184场",
+          "img1": "../../static/assets/Geng/yu.jpg"
+        },
+           {
+          "id":"6",
+          "imgs": "../../static/assets/Geng/06.jpg",
+          "title": "传奇的诞生",
+           "img": "../../static/assets/Geng/3d.jpg",
+          "pin": "37210:",
+          "shu": "人想看",
+          "nei": "主演: 贝利,凯文·德·保拉...",
+          "jin": "2018-09-07 本周五上映",
+          "img1": "../../static/assets/Geng/yu.jpg"
+           },
+           {
+          "id":"7",
+          "imgs": "../../static/assets/Geng/07.jpg",
+          "title": "精灵旅社3：疯狂假期",
+          "img": "../../static/assets/Geng/3d.jpg",
+          "pin": "观众评:",
+          "shu": "8.2",
+          "nei": "主演: 亚当·桑德勒,赛琳娜...",
+          "jin": "今天71家影院放映146场",
+          "img1": "../../static/assets/Geng/yu.jpg"
+        },
+           {
+          "id":"8",
+          "imgs": "../../static/assets/Geng/08.jpg",
+          "title": "反贪风暴3",
+          "pin": "166000:",
+          "shu": "人想看",
+          "nei": "主演: 古天乐,张智霖,郑嘉颖",
+          "jin": "2018-09-14 下周五上映",
+          "img1": "../../static/assets/Geng/buy.jpg"
+        },
+           {
+          "id":"9",
+          "imgs": "../../static/assets/Geng/09.jpg",
+          "title": "巨齿鲨",
+          "img": "../../static/assets/Geng/3d.jpg",
+          "pin": "观众评:",
+          "shu": "8.8",
+          "nei": "主演: 杰森·斯坦森,李冰冰...",
+          "jin": "今天60家影院放映131场",
+          "img1": "../../static/assets/Geng/buy.jpg"
+        },
+          {
+            "id":"10",
+            "imgs": "../../static/assets/Geng/10.jpg",
+            "title": "西虹市首富",
+            "img": "../../static/assets/Geng/3d.jpg",
+            "pin": "观众评:",
+            "shu": "9.1",
+            "nei": "主演: 沈腾,宋芸桦,张一鸣",
+            "jin": "今天50家影院放映120场",
+            "img1": "../../static/assets/Geng/buy.jpg"
+          },
+          {
+            "id":"11",
+            "imgs": "../../static/assets/Geng/11.jpg",
+            "title": "藏北秘岭-重返无人区",
+            "pin": "观众评:",
+            "shu": "9.1",
+            "nei": "主演: 蔡宇,饶子君,土旦巴桑",
+            "jin": "今天47家影院放映67场",
+            "img1": "../../static/assets/Geng/buy.jpg"
+          },
+          {
+            "id":"12",
+            "imgs": "../../static/assets/Geng/12.jpg",
+            "title": "道高一丈",
+            "pin": "24742:",
+            "shu": "人想看",
+            "nei": "主演: 聂远,谭凯,徐露",
+            "jin": "2018-09-07 本周五上映",
+            "img1": "../../static/assets/Geng/yu.jpg"
+          },
+          {
+            "id":"13",
+            "imgs": "../../static/assets/Geng/13.jpg",
+            "title": "那些女人",
+            "pin": "暂无评分:",
+            "nei": "主演: 何赛飞,殷桃,谢林彤",
+            "jin": "今天23家影院放映36场",
+            "img1": "../../static/assets/Geng/buy.jpg"
+          }
+        ],
+        "lists": [
+          {
+            "id": "15",
+            "img": "../../static/assets/Geng/261.jpg",
+            "wish": 204325,
+            "wishst": 0,
+            "nm": "昨日青空",
+            "comingTitle": "10月26日"
+          },
+          {
+            "id": "16",
+            "img":"../../static/assets/Geng/526.jpg" ,
+            "wish": 181025,
+            "wishst": 0,
+            "nm": "反贪风暴3",
+            "comingTitle": "9月14日"
+          },
+          {
+            "id": "17",
+            "img": "../../static/assets/Geng/527.jpg",
+            "wish": 134609,
+            "wishst": 0,
+            "nm": "大轰炸",
+            "comingTitle": "10月26日"
+          },
+          {
+            "id": "18",
+            "img": "../../static/assets/Geng/664.jpg",
+            "wish": 127174,
+            "wishst": 0,
+            "nm": "影",
+            "comingTitle": "9月30日"
+          },
+          {
+            "id": "19",
+            "img": "../../static/assets/Geng/704.jpg",
+            "wish": 84173,
+            "wishst": 0,
+            "nm": "阿尔法：狼伴归途",
+            "comingTitle": "9月7日"
+          },
+          {
+            "id": "20",
+            "img": "../../static/assets/Geng/2779.jpg",
+            "wish": 83204,
+            "wishst": 0,
+            "nm": "无双",
+            "comingTitle": "9月30日"
+          },
+          {
+            "id": "21",
+            "img": "../../static/assets/Geng/7633.jpg",
+            "wish": 80964,
+            "wishst": 0,
+            "nm": "暮光巴黎",
+            "comingTitle": "10月26日"
+          },
+          {
+            "id": "22",
+            "img": "../../static/assets/Geng/28783.jpg",
+            "wish": 78301,
+            "wishst": 0,
+            "nm": "李茶的姑妈",
+            "comingTitle": "9月30日"
+          },
+          {
+            "id": "23",
+            "img": "../../static/assets/Geng/a2831921.jpg",
+            "wish": 67906,
+            "wishst": 0,
+            "nm": "败者为王",
+            "comingTitle": "9月7日"
+          },
+          {
+            "id": "24",
+            "img":"../../static/assets/Geng/261.jpg",
+            "wish": 60680,
+            "wishst": 0,
+            "nm": "胖子行动队",
+            "comingTitle": "9月30日"
+          }
+        ],
+        "coming":[
+          {"id":"25","haspromotionTag":false,
+            "img":"../../static/assets/Geng/s1.jpg",
+            "version":"v3d imax","nm":"阿尔法：狼伴归途",
+            "preShow":false,"sc":0,"globalReleased":false,
+            "wish":84972,"star":"柯蒂·斯密特-麦菲,蕾奥娜·维埃拉,娜塔莎·迈尔兹",
+            "rt":"2018-09-07","showInfo":"2018-09-07 本周五上映",
+            "showst":"人想看","wishst":0,"comingTitle":"9月7日 周五",
+            "imgs":"../../static/assets/Geng/yushou.png"
+          },
+          {"id":"26","haspromotionTag":false,
+            "img":"../../static/assets/Geng/s2.jpg",
+            "version":"","nm":"李宗伟：败者为王","preShow":false,
+            "sc":0,"globalReleased":false,"wish":68171,"star":"李宗伟,李国煌,杨雁雁",
+            "rt":"2018-09-07","showInfo":"今天1家影院放映1场",
+            "showst":"人想看","wishst":0,"comingTitle":"9月7日 周五",
+            "imgs":"../../static/assets/Geng/yushou.png"},
+          {"id":"27","haspromotionTag":false,
+            "img":"../../static/assets/Geng/s3.jpg",
+            "version":"","nm":"草戒指","preShow":false,
+            "sc":0,"globalReleased":false,"wish":42905,
+            "showInfo":"今天1家影院放映1场",
+            "star":"洪亦平,马靓,胡锰","rt":"2018-09-07",
+            "showst":"人想看","wishst":0,"comingTitle":"9月7日 周五",
+            "imgs":"../../static/assets/Geng/yushou.png"},
+          {"id":"28","haspromotionTag":false,
+            "img":"../../static/assets/Geng/s4.jpg",
+            "version":"","nm":"传奇的诞生","preShow":false,
+            "sc":0,"globalReleased":false,"wish":41528,
+            "star":"凯文·德·保拉,贝利,索·豪黑","rt":"2018-09-07",
+            "showInfo":"今天1家影院放映1场","showst":"人想看","wishst":0,
+            "comingTitle":"9月7日 周五",
+            "imgs":"../../static/assets/Geng/yushou.png"},
+          {"id":"29","haspromotionTag":false,
+            "img":"../../static/assets/Geng/s5.jpg",
+            "version":"","nm":"吻隐者","preShow":false,
+            "sc":0,"globalReleased":false,"wish":21612,
+            "star":"谭卓,李至正,孙亦沐","rt":"2018-09-07",
+            "showInfo":"2018-09-07 本周五上映",
+            "showst":"人想看","wishst":0,"comingTitle":"9月7日 周五",
+            "imgs":"../../static/assets/Geng/yushou.png"},
+          {"id":"30","haspromotionTag":false,
+            "img":"../../static/assets/Geng/s6.jpg",
+            "version":"","nm":"有五个姐姐的我就注定要单身了啊",
+            "preShow":false,"sc":0,"globalReleased":false,
+            "showInfo":"2018-09-07 本周五上映",
+            "wish":6319,"star":"蔡凡熙,谢金燕,刘奕儿","rt":"2018-09-07",
+            "showst":"人想看","wishst":0,"comingTitle":"9月7日 周五",
+            "imgs":"../../static/assets/Geng/yushou.png"},
+          {"id":"31","haspromotionTag":false,
+            "img":"../../static/assets/Geng/s7.jpg",
+            "version":"","nm":"那条河","preShow":false,
+            "showInfo":"2018-09-07 本周五上映",
+            "sc":0,"globalReleased":false,"wish":1216,
+            "star":"王庆祥,迟蓬,张杨果而","rt":"2018-09-07",
+            "showst":"人想看","wishst":0,"comingTitle":"9月7日 周五",
+            "imgs":"../../static/assets/Geng/yushou.png"},
+          {"id":"32","haspromotionTag":false
+          ,"img":"../../static/assets/Geng/s8.jpg",
+            "version":"","nm":"过往的梦","preShow":false,
+            "sc":0,"globalReleased":false,"wish":723,
+            "star":"宫哲,张珏,张悦楠","rt":"2018-09-07",
+            "showInfo":"2018-09-07 本周五上映",
+            "showst":"人想看","wishst":0,"comingTitle":"9月7日 周五",
+            "imgs":"../../static/assets/Geng/yushou.png"},
+          {"id":"33","haspromotionTag":false,
+            "img":"../../static/assets/Geng/s9.jpg",
+            "version":"v3d","nm":"赛尔号大电影6：圣者无敌","preShow":false,
+            "sc":0,"globalReleased":false,"wish":45166,
+            "star":"罗玉婷,翟巍,王晓彤","rt":"2018-09-08",
+            "showInfo":"2018-09-08 本周六重映","showst":"人想看"
+          ,"wishst":0,"comingTitle":"9月8日 周六",
+            "imgs":"../../static/assets/Geng/yushou.png"},
+          {"id":"34","haspromotionTag":false,
+            "img":"../../static/assets/Geng/s10.jpg",
+            "version":"v3d","nm":"疯狂丑小鸭",
+            "preShow":false,"sc":0,"globalReleased":false,
+            "wish":9836,"star":"王雪沁,杨进,张洋",
+            "rt":"2018-09-08","showInfo":"2018-09-08 本周六重映",
+            "showst":"人想看","wishst":0,"comingTitle":"9月8日 周六",
+            "imgs":"../../static/assets/Geng/yushou.png"}
+        ]
+      }
+    ],
+     "deta":[
+      {
+        "id":"36",
+        "imgs":"../../static/assets/Geng/man.jpg",
+        "title":"碟中谍6：全面瓦解"
+      ,"subtitle":"Mission: Impossible – Fallout",
+        "dian":"../../static/assets/Geng/xin.jpg",
+        "pin":"(15.3万人评分)",
+        "act":"动作,惊悚,冒险",
+        "img":"../../static/assets/Geng/wei3d.png",
+        "time":"美国/148分钟",
+        "start":"2018-08-31大陆上映"
+      }
+    ],
+     "navs":[
+        {"te":"特惠购票","id":"37",
+         "pc":"有时好意会造成恶果，人反而被自己所造成的结果所困扰。伊桑·亨特（汤姆·克鲁斯 饰）和他的IMF团队（亚历克·鲍德温、西蒙·佩吉、文·瑞姆斯）将在最新的电影《碟中谍6：全面瓦解》中再",
+         "py":" 度回归，他们会与观众们熟悉的盟友（丽贝卡·弗格森、米歇尔·莫娜汉）一起与时间赛跑，应对一次任务中出现的意外。亨利·卡维尔、安吉拉·贝塞特和凡妮莎·柯比也将加入本片的演员阵容，电影制片人克里斯托夫·迈考利将会再度担任导演。"
+         }
+      ],
+     "acts":[
+       {"imgs":"../../static/assets/Geng/manren.png","title":"克里斯托夫•迈考利","yan":"导演"},
+       {"imgs":"../../static/assets/Geng/nan1.png","title":"汤姆·克鲁斯","yan":"伊森·亨特 Ethan Hunt"},
+       {"imgs":"../../static/assets/Geng/nan2.png","title":"亨利•卡维尔","yan":"安格斯·沃克 August Walker"},
+       {"imgs":"../../static/assets/Geng/nan3.png","title":"文•瑞姆斯","yan":"路德·史提奇尔 Luther Stickell"},
+       {"imgs":"../../static/assets/Geng/nan5.png","title":"西蒙·佩吉","yan":"班吉·邓恩 Benji Dunn"},
+       {"imgs":"../../static/assets/Geng/nan6.png","title":"丽贝卡·弗格森","yan":"伊尔莎·浮士德 Ilsa Faust"},
+       {"imgs":"../../static/assets/Geng/nan7.png","title":"肖恩·哈里斯","yan":"所罗门·连恩 Solomon Lane"},
+       {"imgs":"../../static/assets/Geng/nan8.png","title":"安吉拉·贝塞特","yan":"艾莉卡·史隆 Erica Sloan"},
+       {"imgs":"../../static/assets/Geng/nan9.png","title":"凡妮莎·柯比","yan":"白寡妇 White Widow"}
+    ],
+      "tvts":[
+        {"img":"../../static/assets/Geng/laotou.jpg"},
+        {"img":"../../static/assets/Geng/shuan.jpg"},
+        {"img":"../../static/assets/Geng/maonv.jpg"},
+        {"img":"../../static/assets/Geng/nv1.png"},
+        {"img":"../../static/assets/Geng/nv2.png"},
+        {"img":"../../static/assets/Geng/nv3.png"},
+        {"img":"../../static/assets/Geng/nv4.png"},
+        {"img":"../../static/assets/Geng/nv5.png"},
+        {"img":"../../static/assets/Geng/nv6.png"}
+  ],
+      "side":[
+        {"img":"../../static/assets/Geng/yaoshi.jpg",
+          "title":"碟中谍充电宝","price":"168元","prices":"零售价299元"},
+        {"img":"../../static/assets/Geng/s1.png",
+          "title":"碟中谍充电宝","price":"95元","prices":"零售价199元"},
+        {"img":"../../static/assets/Geng/s2.png",
+          "title":"碟中谍充电宝","price":"19.9元","prices":"零售价59元"},
+        {"img":"../../static/assets/Geng/s3.png",
+          "title":"碟中谍充电宝","price":"29.9元","prices":"零售价69元"},
+        {"img":"../../static/assets/Geng/s4.png",
+          "title":"碟中谍充电宝","price":"168元","prices":"零售价299元"},
+        {"img":"../../static/assets/Geng/s5.png",
+          "title":"碟中谍充电宝","price":"35元","prices":"零售价88元"},
+        {"img":"../../static/assets/Geng/s1.png",
+          "title":"碟中谍充电宝","price":"35元","prices":"零售价54元"}
+    ],
+      "items":[
+        {"img":"../../static/assets/Geng/mannan.jpg","sec":"《碟中谍6》曝超长幕后纪录片，人类最强动作片竟是这么拍出来的",
+          "img1":"../../static/assets/Geng/hekuo.jpg","one":"1","five":"52,983","nine":"59,630"}
+    ],
+      "msgs":[
+        {"img":"../../static/assets/Geng/xingxing.jpg","day":"3天前",
+          "msg":"怎么说呢，没有什么突破，但是经典就是经典 必须要来看，最起码我凌晨来看没让我睡着！哈哈哈哈,",
+          "img1":"../../static/assets/Geng/meinvn.jpg",
+          "name":"怎么都占用了","img2":"../../static/assets/Geng/buy1.jpg",
+          "zan":"1368","message":"86"},
+        {"img":"../../static/assets/Geng/xingxing.jpg","day":"3天前",
+          "msg":"全程无尿点，很意外还有很多搞笑剧情，一如既往看第一遍有很多看不懂，准备二刷",
+          "img1":"../../static/assets/Geng/er.png",
+          "name":"不服来干","img2":"../../static/assets/Geng/buy1.jpg",
+          "zan":"1546","message":"78"},
+        {"img":"../../static/assets/Geng/xingxing.jpg","day":"3天前",
+          "msg":"简直从头爽到尾啊，各种反转，真的不知道怎么形容了，系列最佳名副其实，真的不知道下一部要怎么才能超越这部了",
+          "img1":"../../static/assets/Geng/san.png",
+          "name":"宫子楚","img2":"../../static/assets/Geng/buy1.jpg",
+          "zan":"797","message":"28"}
+      ],
+      "foots":[
+        {"img":"../../static/assets/Geng/f1.png","title":"碟中谍5神秘国度"},
+        {"img":"../../static/assets/Geng/heinanren.jpg","title":"碟中谍4"},
+        {"img":"../../static/assets/Geng/f2.png","title":"碟中谍3"},
+        {"img":"../../static/assets/Geng/f3.png","title":"碟中谍2"},
+        {"img":"../../static/assets/Geng/f4.png","title":"碟中谍"},
+        {"img":"../../static/assets/Geng/f5.png","title":"速度与激情9"},
+        {"img":"../../static/assets/Geng/f6.png","title":"速度与激情10"},
+        {"img":"../../static/assets/Geng/f7.png","title":"X战警：新变种人"},
+        {"img":"../../static/assets/Geng/f8.png","title":"敢死队4"},
+        {"img":"../../static/assets/Geng/f9.png","title":"变形金刚8"},
+        {"img":"../../static/assets/Geng/f10.png","title":"变形金刚7"},
+        {"img":"../../static/assets/Geng/f11.png","title":"银河护卫队3"}
+      ]
+  }
+]
+

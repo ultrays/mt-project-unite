@@ -1,0 +1,203 @@
+{
+  "items": [{
+    "url": "#/ktv",
+    "imgSrc": "../../../static/yuan/img/ktvList/list/list-item1.jpg",
+    "name": "音悦汇量贩KTV(军人服务社店)",
+    "price": 68,
+    "posName": "小寨",
+    "posDistance": "657m",
+    "tip1": "小包6小时100元, 中包6小时100元",
+    "tip2": "68元/券，4小时欢唱+小吃饮品套餐"
+  },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item2.jpg",
+      "name": "唱吧麦颂KTV(小寨店)",
+      "price": 30,
+      "posName": "小寨",
+      "posDistance": "533m",
+      "tip1": "小包2小时100元, 中包2小时110元",
+      "tip2": "30元/券，3小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item3.jpg",
+      "name": "欢乐迪音乐氧吧(小寨旗舰店)",
+      "price": 38,
+      "posName": "小寨",
+      "posDistance": "598m",
+      "tip1": "小包6小时690元, 中包6小时690元",
+      "tip2": "38元/券，1小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item4.jpg",
+      "name": "魔方KTV(金莎国际购物广场店)",
+      "price": 48.8,
+      "posName": "小寨",
+      "posDistance": "805m",
+      "tip1": "小包3小时360元, 中包3小时360元",
+      "tip2": "48.8元/券，6小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item5.jpg",
+      "name": "台北纯k(曲江店)",
+      "price": 68,
+      "posName": "大雁塔",
+      "posDistance": "1.27km",
+      "tip1": "小包6小时90元, 中包6小时90元",
+      "tip2": "68元/券，4小时+小吃饮品"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item6.jpg",
+      "name": "悦豪KTV(小寨店)",
+      "price": 68,
+      "posName": "小寨",
+      "posDistance": "1.21km",
+      "tip1": "68元/券，6小时欢唱",
+      "tip2": "68元/券，6小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item7.jpg",
+      "name": "Gaga纯K",
+      "price": 16.6,
+      "posName": "政法/师大",
+      "posDistance": "2.09km",
+      "tip1": "小包3小时90元, 中包3小时90元",
+      "tip2": "16.6元/券，3小时"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item8.jpg",
+      "name": "真爱KTV(旗舰店)",
+      "price": 258,
+      "posName": "长安立交",
+      "posDistance": "1.24km",
+      "tip1": "小包3小时190元, 中包3小时220元",
+      "tip2": "258元/券，欢唱3小时"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item9.jpg",
+      "name": "简约派对KTV",
+      "price": 48,
+      "posName": "太乙路",
+      "posDistance": "1.78km",
+      "tip1": "小包2小时71.9元, 中包2小时71.9元",
+      "tip2": "48元/券，6.5小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item10.jpg",
+      "name": "爱尚纯k",
+      "price": 38,
+      "posName": "朱雀大街北段",
+      "posDistance": "2.4km",
+      "tip1": "小包3小时100元, 中包3小时100元",
+      "tip2": "38元/券，3小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item11.jpg",
+      "name": "MAX量贩KTV",
+      "price": 31,
+      "posName": "南稍门",
+      "posDistance": "2.65km",
+      "tip1": "中包6小时500元, 大包6小时500元",
+      "tip2": "31元/券，3小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item12.jpg",
+      "name": "欢乐迪KTV(电视塔店)",
+      "price": 68,
+      "posName": "电视塔",
+      "posDistance": "2.7km",
+      "tip1": "小包3小时100元, 中包3小时100元",
+      "tip2": "68元/券，6小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item13.jpg",
+      "name": "星光天地KTV",
+      "price": 78,
+      "posName": "枫林绿洲",
+      "posDistance": "5.14km",
+      "tip1": "小包3小时170元, 中包3小时220元",
+      "tip2": "78元/券，欢唱6小时+软饮套餐"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item14.jpg",
+      "name": "纯k魔方(东南城角店)",
+      "price": 38,
+      "posName": "交大/理工大",
+      "posDistance": "3.76km",
+      "tip1": "中包3小时160元, 大包3小时120元",
+      "tip2": "38元/券，3小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item15.jpg",
+      "name": "GOGO HAPPY(东大街店)",
+      "price": 98,
+      "posName": "碑林区",
+      "posDistance": "4.32km",
+      "tip1": "小包3小时62元, 中包3小时62元",
+      "tip2": "98元/券，5小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item16.jpg",
+      "name": "新台北KTV",
+      "price": 38,
+      "posName": "电子城",
+      "posDistance": "3.93km",
+      "tip1": "小包3小时261元, 中包3小时281元",
+      "tip2": "38元/券，3小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item17.jpg",
+      "name": "音范纯K",
+      "price": 18,
+      "posName": "电视塔",
+      "posDistance": "3.38km",
+      "tip1": "小包4小时130元, 中包4小时130元",
+      "tip2": "18元/券，2小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item18.jpg",
+      "name": "至尚纯K",
+      "price": 158,
+      "posName": "西影路",
+      "posDistance": "2.73km",
+      "tip1": "158元/券，6小时欢唱",
+      "tip2": "158元/券，6小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item19.jpg",
+      "name": "蒂爵王朝音乐会所",
+      "price": 58,
+      "posName": "南大学城",
+      "posDistance": "8.03km",
+      "tip1": "小包3小时690元, 中包3小时690元",
+      "tip2": "58元/券，3小时欢唱"
+    },
+    {
+      "url": "#/ktv",
+      "imgSrc": "../../../static/yuan/img/ktvList/list/list-item20.jpg",
+      "name": "乐秀KTV(朱雀路店)",
+      "price": 9.9,
+      "posName": "电视塔",
+      "posDistance": "3.27km",
+      "tip1": "小包4小时398元, 中包4小时398元",
+      "tip2": "9.9元/券，1小时欢唱"
+    }
+  ]
+}
